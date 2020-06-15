@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="fcd07fbf-9bfe-4259-9f62-93343bb04199" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.13.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pranab Gita - Volume 1: An Experiential Commentary on Srimad Bhagavad Gita in the light of Kriya Yoga</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="0">
+      <navLabel>
+        <text>English Edition Dedication</text>
+      </navLabel>
+      <content src="text/part0007.html#6LJU0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="1">
+      <navLabel>
+        <text>Preface to 2020 English Edition</text>
+      </navLabel>
+      <content src="text/part0013.html#CCNA0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="2">
+      <navLabel>
+        <text>Translation Note</text>
+      </navLabel>
+      <content src="text/part0014.html#DB7S0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="3">
+      <navLabel>
+        <text>Pranab Gita Bengali Title Page</text>
+      </navLabel>
+      <content src="text/part0015.html#E9OE0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="1">
+      <navLabel>
+        <text>Preface to the First Edition</text>
+      </navLabel>
+      <content src="text/part0016_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="2">
+      <navLabel>
+        <text>Preface to the Eighth Edition</text>
+      </navLabel>
+      <content src="text/part0017_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="3">
+      <navLabel>
+        <text>Homage to Param Gurudev Srimat Yogiraj</text>
+      </navLabel>
+      <content src="text/part0018_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="4">
+      <navLabel>
+        <text>Srimat Yogiraj Condensed Biography</text>
+      </navLabel>
+      <content src="text/part0019_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="5">
+      <navLabel>
+        <text>Atha Mangalacharanam</text>
+      </navLabel>
+      <content src="text/part0020_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="6">
+      <navLabel>
+        <text>Invocation</text>
+      </navLabel>
+      <content src="text/part0021_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="7">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="text/part0022_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="7">
+      <navLabel>
+        <text>Prologue to Srimadbhagavadgita</text>
+      </navLabel>
+      <content src="text/part0022_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="8">
+      <navLabel>
+        <text>Outline of Pranab Gita</text>
+      </navLabel>
+      <content src="text/part0034_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="13">
+      <navLabel>
+        <text>Chapter One - Vishadayogah</text>
+      </navLabel>
+      <content src="text/part0036.html#12AK80-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="14">
+      <navLabel>
+        <text>Chapter Two - Saṃkhyayogah     2</text>
+      </navLabel>
+      <content src="text/part0040.html#164MG0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="15">
+      <navLabel>
+        <text>Chapter Three - Karmayogah</text>
+      </navLabel>
+      <content src="text/part0042.html#181NK0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="16">
+      <navLabel>
+        <text>Chapter Four - Jnanayogah</text>
+      </navLabel>
+      <content src="text/part0044.html#19UOO0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="17">
+      <navLabel>
+        <text>Chapter Five - Karmasannyasayogah</text>
+      </navLabel>
+      <content src="text/part0046.html#1BRPS0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="18">
+      <navLabel>
+        <text>Chapter Six - Abhyasayogah</text>
+      </navLabel>
+      <content src="text/part0048.html#1DOR00-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="19">
+      <navLabel>
+        <text>Chapter Seven - Jnanavijnanayogah</text>
+      </navLabel>
+      <content src="text/part0050.html#1FLS40-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="20">
+      <navLabel>
+        <text>Chapter Eight - Aksharabrahma Yogah</text>
+      </navLabel>
+      <content src="text/part0052.html#1HIT80-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="21">
+      <navLabel>
+        <text>Chapter Nine - Rajavidyarajaguhya Yogah</text>
+      </navLabel>
+      <content src="text/part0054.html#1JFUC0-9ab9a1f78fd64a00bce5b4325b8aa8f1"/>
+    </navPoint>
+  </navMap>
+</ncx>
