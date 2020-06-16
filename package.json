@@ -12,7 +12,7 @@
   },
   "scripts": {
     "dev": "next",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "static": "next build && next export",
     "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
